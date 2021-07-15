@@ -1,0 +1,52 @@
+In your own words, what is a computer really doing whenever you type a letter on a
+keyboard? (150 words max)
+A computer sends a message to the software on your screen to put the character you input
+when you press that specific character button onto the screen by taking a memorized image
+of the character your inputting to output. It's flexible enough to be inputted on any 
+software where you can type characters.
+
+In your own words, how do computers use input and output to create experiences? (250
+words max)
+Input and output are a correlated cycle of receiving and giving out information from the
+perspective of the computer which helps us interact with the computer and communicate and 
+create experiences.
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150
+words max)
+Software is intangible so it can be presumed to be nothing even though it can be made and 
+recreated in many different ways and versions that can branch off and expand at our hands.
+
+Explain in your own words how code becomes software. (150 words max)
+Codes have to go through different steps to become software, like the ingredients to a recipe.
+The code has to go through parsing, compiling, and interpreting by the computer to be seen 
+and executed as a software program. And this can be executed through different methods due to
+the flexibility behind coding language. 
+
+Explain “algorithms” in your own words. (150 words max)
+Algorithms are rigid, set-in sequences to calculate and solve a problem.
+
+Explain the DRY principle. (100 words max)
+Don't repeat yourself (DRY) is a platitude to try to reduce repeating patterns to avoid 
+redundancy so that your software can run more effieciently and more easily maintained.
+
+In your own words, what is object-oriented programming? (100 words max)
+Object-oriented programming focuses on "objects", which often hold data and code in subsequent
+classes, and organizes these classes to be easily manipulated.
+
+In your own words explain data and how it relates to code. (100 Words max)
+Data is factual and statistical information collected and code can organize this data and manipulate
+it to be more easily understood.
+
+What is a framework? (150 words max)
+A framework is a foundation to build software. It makes things more convenient as a starting point.
+
+What is debugging? (150 words max)
+Debugging is finding computer program issues so they can be corrected to make the program
+work again.
+
+Now, with more of an understanding of what code is, why do you want to learn how to
+code? (500 words max)
+I think coding is a fascinating process that has so many possibilities. It makes me want to
+learn more and create new things from my own hand because I find that kind of process extremely
+satisfying. It also has the prospect of influecing other people and I think that's the kind
+of impact I want to leave in this world.
