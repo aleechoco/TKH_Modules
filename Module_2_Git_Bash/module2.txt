@@ -1,0 +1,12 @@
+1. Git is a software program that allows share versions of your files
+while Github is website that acts as a Git respository to allow team changes
+to the git.
+2. The terminal allows a deeper access into the process behind programs
+and files so it allows for more detailed changes to cause more of an
+impact.
+3. Version control can allow you to:
+> Oversee the source code so you can see all the code modifications from others
+so you can manage how people are working on the project.
+> Frequently make changes to the existing code to improve upon it.
+> Not conform to a rigid outline as it conforms to those working on it
+instead of enforcing restrictions on those working on it.
